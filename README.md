@@ -1,5 +1,5 @@
 # Oracle-PDB-Migration-UNIORA-to-OCI
-This project involves the ongoing migration of 720 Oracle Pluggable Databases (PDBs) from an existing environment to Oracle Cloud Infrastructure (OCI).  The migration is being executed in a high-scale, multi-tenant architecture, where stability, sequencing, and validation are more critical than raw execution speed.
+This project involves the ongoing migration of 72 Oracle Pluggable Databases (PDBs) from an existing environment to Oracle Cloud Infrastructure (OCI).  The migration is being executed in a high-scale, multi-tenant architecture, where stability, sequencing, and validation are more critical than raw execution speed.
 ### 1. Source Environment Preparation and Freeze (UNIORA)
 
 The migration process begins with a controlled preparation phase to ensure data consistency and operational safety.
