@@ -200,5 +200,6 @@ Confirmation of production access via the official portal
 ## Objective:
 Complete the migration and place the environment into official production operation.
 
-<img width="792" height="113" alt="image" src="https://github.com/user-attachments/assets/bfb9face-599f-4db5-a463-0f3387dd1d3d" />
+<img width="1895" height="857" alt="image" src="https://github.com/user-attachments/assets/8c6be2f7-54b1-4015-82e1-7dc758173355" />
+
 
